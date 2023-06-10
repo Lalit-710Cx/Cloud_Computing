@@ -65,7 +65,7 @@ By carefully considering these factors and optimizing data distribution, task gr
 ![Map reduceing](https://www.todaysoftmag.com/images/articles/tsm33/large/a11.png)
 ### 1. Map-Reduce Overview
 Map-Reduce is a parallel and distributed programming model for processing large data sets. It consists of two steps: **Map** and **Reduce**.
-- **Map**: Input data is divided and processed independently by map tasks, generating intermediate key-value pairs.
+- **Map**: Input data iMap phases divided and processed independently by map tasks, generating intermediate key-value pairs.
 - **Reduce**: Intermediate pairs are grouped based on keys, and reduce tasks process each group to produce the final output.
 ### 2. Relational Operations with Map-Reduce:
 
